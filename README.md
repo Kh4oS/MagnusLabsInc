@@ -2,14 +2,16 @@
 
 If you'd like to support this project, you can do so in a number of ways:
 - Subscribe for a paid account in EVE Online through the following link: <a href="http://secure.eveonline.com/signup/?invc=102e9d79-ca03-4238-9024-c329420d2ba0&action=buddy">Sign Up For EVE Online</a>
+    - You'll get a bonus 250,000 skill points (SP) when you sign up through this link.
 - Donate ISK to the CEO of my corporation, Magnus Ohmiras
 - Contribute to the content of this Wiki and send a pull request
+
 
 # Introduction
 
 This is a project dedicated to the development of resources and a knowledge base
-for the game EVE Online. This will be personalized for our corporation but will
-feature general information as well.
+for the game EVE Online. This will be personalized for our corporation, Magnus
+Labs Inc., but will feature information relevant to the average capsuleer as well.
 
 I've decided to use GitHub as a platform for a few reasons:
 - version control,
@@ -22,6 +24,7 @@ I've decided to use GitHub as a platform for a few reasons:
 If you have a programming solution you would like us to develop for you (whether
 it is related to EVE Online or not), please contact Queldonas Caelin with a
 **game mail** and let him know what your needs or requirements are for software.
+
 
 # Contributing or Collaborating
 
@@ -39,6 +42,7 @@ The main contributors to this project are:
 Send a **game mail** to these characters if you'd like to be added as a permanent
 collaborator to the Wiki - we'll work out a time for a meeting to discuss what we
 can offer each other.
+
 
 # Future Goals
 

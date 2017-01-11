@@ -15,7 +15,7 @@ If you'd like to contribute to the Wiki,
 - Create a pull request so that one of our collaborators can review the content.
 
 For more information on how Git/GitHub work, check out:
-<a href="">https://guides.github.com/</a>
+<a href="https://guides.github.com/">GitHub Guides</a>
 
 The main collaborators (character names) on the Wiki are:
 - Vikros Crendraven

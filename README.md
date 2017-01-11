@@ -9,6 +9,17 @@ I've decided to use GitHub as a platform for a few reasons:
 - built-in wiki, and
 - the relative ease with which these tasks are accomplished.
 
-If you'd like to contribute to the Wiki, simply clone the wiki, make your
-changes, and then send a pull request for one of the project collaborators to
-review.
+If you'd like to contribute to the Wiki,
+- Clone the wiki, make your
+- Make the changes / additions to your local version
+- Create a pull request so that one of our collaborators can review the content.
+
+For more information on how Git/GitHub work, check out:
+<a href="">https://guides.github.com/</a>
+
+The main collaborators (character names) on the Wiki are:
+- Vikros Crendraven
+- Leviston Forkhammer
+
+Send a game mail to these characters if you'd like to be added as a collaborator
+to the Wiki. Otherwise, follow the above instructions if you'd like to contribute.

@@ -1,4 +1,4 @@
-<p align="center" size="16">Magnus Labs Inc. Wiki</p>
+<p align="center" size="24"><a href="https://github.com/Kh4oS/MagnusLabsInc/wiki">Magnus Labs Inc. Wiki</a></p>
 
 # Support this Project
 

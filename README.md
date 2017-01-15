@@ -1,3 +1,5 @@
+<p align="center" size="16">Magnus Labs Inc. Wiki</p>
+
 # Support this Project
 
 If you'd like to support this project, you can do so in a number of ways:
